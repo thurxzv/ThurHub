@@ -2515,21 +2515,21 @@ local Window = OrionLib:MakeWindow({Name = "Thur Hub", HidePremium = false, Intr
 OrionLib:MakeNotification({
 	Name = "Thur Hub",
 	Content = "Choose Teams Bro?",
-	Image = "rbxassetid://119980140458596",
+	Image = "rbxassetid://1978823614",
 	Time = 7
 })
 
 OrionLib:MakeNotification({
 	Name = "Thur Hub",
 	Content = "Thur Hub",
-	Image = "rbxassetid://119980140458596",
+	Image = "rbxassetid://1978823614",
 	Time = 25
 })
 
 OrionLib:MakeNotification({
     Name = "Thur Hub",
     Content = "Please Wait loading script...,Do not enable any function",
-    Image = "rbxassetid://119980140458596",
+    Image = "rbxassetid://1978823614",
     Time = 5
 })
 
@@ -2537,85 +2537,85 @@ OrionLib:MakeNotification({
 
 local W = Window:MakeTab({
     Name = "Welcome",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local M = Window:MakeTab({
     Name = "General",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local ST = Window:MakeTab({
     Name = "Setting",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local IQ = Window:MakeTab({
     Name = "Item & Quest",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local S = Window:MakeTab({
     Name = "Stats",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local E = Window:MakeTab({
     Name = "ESP",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local RA = Window:MakeTab({
     Name = "Raid",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local LC = Window:MakeTab({
     Name = "Local Players",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local Wld = Window:MakeTab({
     Name = "World Teleport",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local SV = Window:MakeTab({
     Name = "Status Sever",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local D = Window:MakeTab({
     Name = "Devil Fruit",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local R = Window:MakeTab({
     Name = "Race V4",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local SH = Window:MakeTab({
     Name = "Shop",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
 local C = Window:MakeTab({
     Name = "Misc",
-    Icon = "rbxassetid://119980140458596",
+    Icon = "rbxassetid://1978823614",
     PremiumOnly = false
 })
 
